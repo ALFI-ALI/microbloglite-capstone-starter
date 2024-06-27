@@ -17,7 +17,7 @@ a {
 body {
     font-family: "Inter" , sans-serif ;
     /* background-color: brown; */
-    height: 500px;
+    /* height: 500px; */
     /* padding-top: 60px; */
 }
 
@@ -54,6 +54,11 @@ body {
 
 }
 
+#logout{
+background-color: rgba(0, 255, 195, 0.593);
+
+border-radius: 5px;
+}
 .nav__item{
 
 }
